@@ -12,10 +12,13 @@ a useful resource.
 
 ## Adding a Project to the List of Adopters
 
-* Fork the repository.
+* Add the Contirbutor Covenant code of conduct to a visible place in your 
+  project's repository or documentation.
+* Fork this repository.
 * Add a new row to the [adopters.csv](static/adopters.csv) file,
   with the project name in the first column, and the project URL in the second column.
-* Open a pull request.
+* [Open a pull request](https://github.com/klaude/contributor_covenant/pulls/new?template=adoption.md) 
+  with your project's name and a link to its code of conduct.
 
 ## We respect and appreciate different kinds of contributions.
 Ways that you can contribute:
